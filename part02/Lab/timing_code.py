@@ -20,7 +20,7 @@ def main():
     start_time = time()
 
     # Replace sleep(20) below with code you want to time
-    sleep(20)
+    sleep(10)
     
     # sets end time
     end_time = time()
